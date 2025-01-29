@@ -43,11 +43,12 @@ To run the notebooks locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ML_Advanced_Practice.git
+   git clone https://github.com/Niloufarbeikahmadi/ML_Advanced_Practice.git
 2. Install dependencies
-pip install numpy matplotlib tensorflow
+3. 
+   pip install numpy matplotlib tensorflow"
 
-3. Open Jupyter Notebook
+4. Open Jupyter Notebook
 
 📌 Why This Repository?
 This repository serves as a practical showcase of implementing machine learning models, improving generalization, and understanding fundamental tree-based learning methods.
